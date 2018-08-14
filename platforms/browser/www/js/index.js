@@ -84,7 +84,7 @@ push.on('registration', function(data) {
     console.log(data.registrationId);
    // alert(data.registrationId);
     json_call(data.registrationId);
-   var ref = cordova.InAppBrowser.open('http://simchungee.com/', '_blank', 'location=no');
+   var ref = cordova.InAppBrowser.open('http://sobangapp.cafe24.com/', '_blank', 'location=no');
    
 });
 
