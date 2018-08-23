@@ -1,6 +1,6 @@
 ﻿<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.sobangapp.hancoma" version="1.0.5">
-  <name>소방최저가.com</name>
-  <description>소방최저가</description>
+  <name>소방초저가.com</name>
+  <description>소방초저가</description>
   <author href="http://sobangapp.cafe24.com" email="ch7@daum.net">김대경</author>
   <content src="index.html"/>
 <preference name='phonegap-version' value='cli-6.5.0' />
