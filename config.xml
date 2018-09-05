@@ -3,8 +3,8 @@
   <description>소방초저가</description>
   <author href="http://sobangapp.cafe24.com" email="ch7@daum.net">김대경</author>
   <content src="index.html"/>
-<preference name='phonegap-version' value='cli-6.5.0' />
-<preference name='pgb-builder-version' value='2' />
+<preference name='phonegap-version' value='cli-7.0.1' />
+<preference name='pgb-builder-version' value='3' />
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
    <preference name="fullscreen" value="false" />
